@@ -25,6 +25,7 @@
 
 ### How to find me🤓
 
-- QQ:2095211664
+- QQ:2095211664🙈
 - Vx:Cs-Zed99
+- Email:12210532@mail.sustech.edu.cn🤵
 - Telegram:No,this will attract cute police officers👮
