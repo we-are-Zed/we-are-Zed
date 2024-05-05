@@ -12,10 +12,11 @@
 
 👀About me，you only need to know：
 
-- I like to play with some abstractions, but I really don't want to be abstract😭
-- I really didn't do any heinous things. I am a timid and kind boy🤓
+- ~~I like to play with some abstractions, but I really don't want to be abstract😭~~I like 奶龙😈
+- I really didn't do any heinous things. I am a timid and kind boy👦（我真不是坏人
 - If you message me on social media, I guess I should be able to beat Flash faster🤙
 - Losing weight is a lifelong event for me🤦‍♂️
+- 但是我真的有在好好减肥😣
 
 
 
@@ -27,4 +28,5 @@
 
 - QQ:2095211664
 - Vx:Cs-Zed99
+- Email：12210532@mail.sustech.edu.cn
 - Telegram:No,this will attract cute police officers👮
