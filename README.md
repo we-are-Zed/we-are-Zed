@@ -16,16 +16,17 @@
   - I really didn't do any heinous things. I am a timid and kind boy👦（我真不是坏人
   - If you message me on social media, I guess I should be able to beat Flash faster🤙
   - Losing weight is a lifelong event for me🤦‍♂️
-  - 但是我真的有在好好减肥😣
-
+  - （但是我真的有在好好减肥😣）
+  - Single age always equals actual age😎👌👉😭
   
-
+  
+  
   ![🤓](https://github-readme-stats.vercel.app/api?username=we-are-Zed&show_icons=true&theme=radical)
-
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we-are-Zed&layout=compact&theme=radical)
-
+  
   ### How to find me🤓
-
+  
   - QQ:2095211664
   - Vx:Cs-Zed99
   - Email：12210532@mail.sustech.edu.cn
