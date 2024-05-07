@@ -13,11 +13,12 @@
   👀About me，you only need to know：
 
   - ~~I like to play with some abstractions, but I really don't want to be abstract😭~~I like 奶龙😈
-  - I really didn't do any heinous things. I am a timid and kind boy👦（我真不是坏人
+  - I really didn't do any heinous things. I am a timid and kind boy👀
   - If you message me on social media, I guess I should be able to beat Flash faster🤙
   - Losing weight is a lifelong event for me🤦‍♂️
   - （但是我真的有在好好减肥😣）
   - Single age always equals actual age😎👌👉😭
+  - What is Zed? Oh！A hero that I really like. But playing his protagonist usually doesn't go smoothly in some way（Don‘t ask😭）
   
   
   
