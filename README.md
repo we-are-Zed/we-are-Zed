@@ -26,6 +26,8 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we-are-Zed&layout=compact&theme=radical)
   
+  ![Contribution Graph](https://github-readme-activity-graph-ebon.vercel.app/graph?username=we-are-Zed&theme=react-dark&color=58a6ff&line=58a6ff&radius=8)
+  
   ### How to find me🤓
   
   - QQ:2095211664
