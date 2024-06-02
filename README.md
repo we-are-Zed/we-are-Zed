@@ -28,6 +28,8 @@
   
   ![Contribution Graph](https://github-readme-activity-graph-ebon.vercel.app/graph?username=we-are-Zed&theme=react-dark&color=58a6ff&line=58a6ff&radius=8)
   
+  (仓库你怎么似了😭)
+  
   ### How to find me🤓
   
   - QQ:2095211664
