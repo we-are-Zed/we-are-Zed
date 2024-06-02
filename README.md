@@ -22,9 +22,9 @@
   
   
   
-  ![🤓](https://github-readme-stats.vercel.app/api?username=we-are-Zed&show_icons=true&theme=radical)
+  ![其实我根本不会主动去提issue🤓](https://github-readme-stats.vercel.app/api?username=we-are-Zed&show_icons=true&theme=radical)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we-are-Zed&layout=compact&theme=radical)
+  ![我其实只会java](https://github-readme-stats.vercel.app/api/top-langs/?username=we-are-Zed&layout=compact&theme=radical)
   
   [![卓卓's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=we-are-Zed)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
