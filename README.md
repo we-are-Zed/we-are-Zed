@@ -20,12 +20,23 @@
 👀About me，you only need to know：
 
 - ~~I like to play with some abstractions, but I really don't want to be abstract😭~~I like 奶龙😈
+
 - I really didn't do any heinous things. I am a timid and kind boy👀
+
 - If you message me on social media, I guess I should be able to beat Flash faster🤙
+
 - Losing weight is a lifelong event for me🤦‍♂️
+
 - （但是我真的有在好好减肥😣）
+
 - Single age always equals actual age😎👌👉😭
+
 - What is Zed? Oh！A hero that I really like. But playing his protagonist usually doesn't go smoothly in some way（Don‘t ask😭）
+
+  📈 GitHub Statistics
+
+  ![GitHub Stats](https://github-readme-stats-eight-beige.vercel.app/api?username=we-are-Zed&theme=github_dark&show_icons=true&count_private=true)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=we-are-Zed&layout=compact&hide=html&theme=github_dark&langs_count=8)
 
 
 
