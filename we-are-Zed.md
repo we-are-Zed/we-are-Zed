@@ -1,4 +1,11 @@
-# Hi! We-are-Zed！🤺
+# We-are-Zed😈
+
+<div align="center">
+  <div align="center">
+    <a href="https://shiym.top">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22); Zed!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 
 [![Custom Badge](https://img.shields.io/badge/Demo-meaningless-color)](https://github.com/we-are-Zed/shields?tab=readme-ov-file)![JAVA](https://img.shields.io/badge/JAVA-Advanced-blue)![Python](https://img.shields.io/badge/Python-no-red)![Cpp](https://img.shields.io/badge/Cpp-😢-blue)
 
