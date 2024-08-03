@@ -1,4 +1,4 @@
-# We-are-Zed😈
+# [We-are-Zed](https://we-are-zed.github.io)😈
 
 <div align="center">
   <div align="center">
