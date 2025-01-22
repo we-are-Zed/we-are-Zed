@@ -4,11 +4,10 @@
 <br><img src="img/zed.gif" height="120" />
 <pre>
     💼 Junior @ SUSTech • 奶龙😈
-    💻 System programming languages • DevOps 
-    📖  • 
-    🎮 LOL • 
+    💻 Java & Vue • DevOps 
+    🎮 LOL • VALORANT
 </pre>
 <br>
 
-[![](https://img.shields.io/badge/mail-6364ff)](mailto:[12210532@mail.sustech.edu.cn](mailto:12210532@mail.sustech.edu.cn))
+[![](https://img.shields.io/badge/mail-6364ff)](mailto:12210532@mail.sustech.edu.cn)
 </div>
