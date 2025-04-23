@@ -1,10 +1,13 @@
 <div align="center">
   
+<br/>
+
 # <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=A7A459&center=true&vCenter=true&repeat=true&random=false&width=550&height=30&lines=Hello+there%2C+I'm+Zed+King!+%F0%9F%91%8B" alt="Typing SVG" />
   
 [![Visits Badge](https://badges.pufler.dev/visits/we-are-Zed/we-are-Zed)](https://github.com/we-are-Zed)
 [![Years Badge](https://badges.pufler.dev/years/we-are-Zed)](https://github.com/we-are-Zed)
 [![Email Badge](https://img.shields.io/badge/Email-12210532%40mail.sustech.edu.cn-blue?style=flat&logo=gmail)](mailto:12210532@mail.sustech.edu.cn)
+[![Blog Badge](https://img.shields.io/badge/Blog-ZED's%20BLOG-orange?style=flat&logo=hexo)](https://we-are-zed.github.io)
 </div>
 
 <div align="center">
@@ -68,8 +71,9 @@
   ## 💖 Let's Connect!
   
   <a href="https://github.com/we-are-Zed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://we-are-zed.github.io"><img src="https://img.shields.io/badge/Blog-ZED's%20BLOG-orange?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog"/></a>
   
-  ![Anya GIF](https://media1.tenor.com/m/4CYtgFdYLn4AAAAd/anya-forger-spy-x-family.gif)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Starry%20Eyes.png" width="150" alt="Anya Style Emoji" />
 
   <sub>⭐ From [we-are-Zed](https://github.com/we-are-Zed) with ❤️</sub>
 </div>
