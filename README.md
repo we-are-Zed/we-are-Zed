@@ -72,9 +72,30 @@
   
   <a href="https://github.com/we-are-Zed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://we-are-zed.github.io"><img src="https://img.shields.io/badge/Blog-ZED's%20BLOG-orange?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/QQ-2095211664-blue?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/WeChat-Cs--zed99-green?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a>
   
   <h3>✨ アニヤ世界一かわいい ✨</h3>
 
   <sub>⭐ From [we-are-Zed](https://github.com/we-are-Zed) with ❤️</sub>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="colorful line">
+</div>
+
+## 🖼️ Gallery
+
+<div align="center">
+  <img src="img/anya1.jpg" width="30%" alt="Anya"/>
+  <img src="img/anya2.jpg" width="30%" alt="Anya"/>
+  <img src="img/anya3.jpeg" width="30%" alt="Anya"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="img/kotone.png" width="45%" alt="Kotone"/>
+  <img src="img/20220523120630_767b4.png" width="45%" alt="Zed"/>
 </div>
 
