@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/we-are-Zed/we-are-Zed/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=we-are-Zed&theme=gruvbox&row=1&column=6" alt="trophy" />
 </div>
 
 <div align="center">
@@ -73,7 +73,7 @@
   <a href="https://github.com/we-are-Zed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://we-are-zed.github.io"><img src="https://img.shields.io/badge/Blog-ZED's%20BLOG-orange?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog"/></a>
   
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Starry%20Eyes.png" width="150" alt="Anya Style Emoji" />
+  <h3>✨ アニヤ世界一かわいい ✨</h3>
 
   <sub>⭐ From [we-are-Zed](https://github.com/we-are-Zed) with ❤️</sub>
 </div>
