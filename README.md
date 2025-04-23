@@ -69,7 +69,7 @@
   
   <a href="https://github.com/we-are-Zed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   
-  ![Anya GIF](https://media.giphy.com/media/gKAjCXE71pPBOhFSY7/giphy.gif)
+  ![Anya GIF](https://media1.tenor.com/m/4CYtgFdYLn4AAAAd/anya-forger-spy-x-family.gif)
 
   <sub>⭐ From [we-are-Zed](https://github.com/we-are-Zed) with ❤️</sub>
 </div>
