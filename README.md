@@ -92,10 +92,4 @@
   <img src="img/anya3.jpeg" width="30%" alt="Anya"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="img/kotone.png" width="45%" alt="Kotone"/>
-  <img src="img/20220523120630_767b4.png" width="45%" alt="Zed"/>
-</div>
 
